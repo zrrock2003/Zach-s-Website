@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My Web Page</title>
+<script>
+</script>
+</head>
+
+<ul class="nav nav-pills nav-justified">
+  <li class="nav-item">
+    <a class="nav-link active" href="#">Active</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Much longer nav link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+  </li>
+</ul>
+
+<h>
+About Me
+</h>
+
+<p>
+HI, my name is Zachary Rock. I am currently a senior in CVU, and am working full time at the Shaw's in Williston. I am currently learning computer programming for my Grad. Challenge because I have taken an interst on how machines are coded, and how they are told to do certain things that make them act the way they do. I have always been a technological kid, and I think as the future continues to grow more nad more, it would be cool to see how computer programming plays a huge part into it.
+</p>
+
+<h> About Me
+</h>
+
+<p> I started computer programming by getting into the interest about how do codes make a things work, and I wanted to know more than the simplisity of it, so I took actions into my own hands and saw Grad. Challenge as a way to do it. From there, I knew Charlie McFayden would know someone because he is into coding and all this technological stuff so my best bet of getting a community consultant was through maybe he knew someone. Since chatting with Brian i've learned more and more, and i knew this could be another potential pathway to take in life because not a lot of people know computer programming and it is a really hard field to get into and stay invested in. Plus, the future is all going to be technology anyways so it would be a good thing to know it case I need to code something for a business I own or maybe help a friend out with something.
